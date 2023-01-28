@@ -2,7 +2,7 @@
 
 <img src="./img/Desktop.png"/>
 
-## [Clique aqui](https://cleiton-beep.github.io/one-page-2022/ds1m-a/cleiton/) para acessar o site
+## [Clique aqui](https://cotilen.github.io/one-page-2022/ds1m-a/cleiton/) para acessar o site
 
 ## **SOBRE**
 
@@ -42,4 +42,4 @@
 
 ## **AUTOR**
 
- <a href="https://github.com/Cleiton-beep"><img src="https://img.shields.io/badge/DESENVOLVEDOR-CLEITON%20CRUZ-informational?style=for-the-badge&logo=appveyor"></a>
+ <a href="https://github.com/cotilen"><img src="https://img.shields.io/badge/DESENVOLVEDOR-CLEITON%20CRUZ-informational?style=for-the-badge&logo=appveyor"></a>
