@@ -4,6 +4,7 @@
     background-size: cover;
     display: flex;
     place-items: center;
+    height: auto;
     justify-content: center;
 }
 

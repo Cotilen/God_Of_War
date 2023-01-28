@@ -61,6 +61,7 @@
 .personagens_lista_secundarios {
     padding-left: 220px;
     gap: 150px;
+    width: 100%;
 }
 
 #kratos,
